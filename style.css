@@ -1,0 +1,63 @@
+h1{
+    color:rgb(85, 217, 222);
+    font-weight: 50px;
+    text-align: center;
+    
+}
+h2{
+color: blueviolet;
+font-weight: 40px;
+text-decoration: dotted;
+}
+body{
+    background-color: beige;
+}
+a{
+    color: darkcyan;
+    text-decoration: solid;
+    font-style: normal;
+    font-weight: 30px;
+}
+h3{
+    color: darkgreen;
+
+}
+button:hover{
+    background-color: rgb(255, 110, 7);
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    gap: 30px;
+}
+
+ul li a {
+    text-decoration: none;
+    font-size: 18px;
+    padding: 8px 12px;
+    background-color: #ddd;
+    border-radius: 5px;
+}
+
+.photo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+button {
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+div{
+    display: flex;
+    gap:60px;
+    padding: 0;
+}
